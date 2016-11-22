@@ -1,1 +1,0 @@
-# office-store-docs readme
